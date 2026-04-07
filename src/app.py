@@ -63,18 +63,7 @@ activities = {
         "max_participants": 20,
         "participants": ["sophia@mergington.edu", "jack@mergington.edu"]
     },
-    "Debate Team": {
-        "description": "Develop public speaking skills and compete in debate tournaments",
-        "schedule": "Wednesdays, 3:30 PM - 4:45 PM",
-        "max_participants": 16,
-        "participants": ["ethan@mergington.edu", "chloe@mergington.edu"]
-    },
-    "Science Olympiad": {
-        "description": "Work on science challenges and prepare for academic competitions",
-        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
-        "max_participants": 18,
-        "participants": ["mason@mergington.edu", "amelia@mergington.edu"]
-    }
+    
 }
 
 
