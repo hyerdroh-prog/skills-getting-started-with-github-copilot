@@ -71,7 +71,7 @@ activities = {
     }
 }
 
-}
+
 
 
 @app.get("/")
