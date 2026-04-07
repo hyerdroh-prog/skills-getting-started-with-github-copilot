@@ -63,7 +63,14 @@ activities = {
         "max_participants": 20,
         "participants": ["sophia@mergington.edu", "jack@mergington.edu"]
     },
-    
+        "Science Olympiad": {
+        "description": "Work on science challenges and prepare for academic competitions",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": ["mason@mergington.edu", "amelia@mergington.edu"]
+    }
+}
+
 }
 
 
